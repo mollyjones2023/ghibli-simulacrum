@@ -16,7 +16,7 @@
 <br>
 [**5** - Valley of the Witches...coming soon...](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/5-valley-of-the-witches/valley.md)
 <br>
-[**6** - Mononoke Village...coming soon...]()
+[**6** - Mononoke Village...coming soon...](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/6-mononoke-village/village.md)
 <br>
 [**7** - The Linimo]()
 <br>
