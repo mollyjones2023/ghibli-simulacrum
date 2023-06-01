@@ -17,7 +17,7 @@
 <br>
 **[6 - Minami-Machi]()**
 <br>
-**[7 - Open Warehous]()**
+**[7 - Open Warehouse]()**
 <br>
 **[8 - Children's Town]()**
 <br>
