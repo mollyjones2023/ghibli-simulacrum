@@ -12,4 +12,7 @@
 
 ## See how some guests have decided to engage with the characters in these scenes!
 ![Sexualizing characters](sexualizing-characters.png)
+<br>
+<br>
+**[Return to Information Center]()**
 
