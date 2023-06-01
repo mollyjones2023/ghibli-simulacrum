@@ -6,7 +6,7 @@
 
 [**1** - Welcome to the park!](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/1-welcome-to-the-park/welcome.md)
 <br>
-[**2** - Ghibli’s Grand Warehouse]()
+[**2** - Ghibli’s Grand Warehouse](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/warehouse.md)
 <br>
 [**3** - Hill of Youth]()
 <br>
