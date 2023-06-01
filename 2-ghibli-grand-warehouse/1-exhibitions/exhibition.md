@@ -14,5 +14,5 @@
 ![Sexualizing characters](sexualizing-characters.png)
 <br>
 <br>
-**[Return to Information Center]()**
+### [Return to Information Center]()
 
