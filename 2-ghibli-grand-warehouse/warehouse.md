@@ -4,7 +4,7 @@
 
 ![Warehouse Map](warehouse-map.png)
 
-**Legend**
+### Legend
 <br>
 **[1 - Exhibitions]()**
 <br>
