@@ -2,8 +2,6 @@
 
 ### Please navigate the park using the map and legend below:
 
-![Ghibli Park Map](map-ghibli.png)
-
 **Legend**
 <br>
 [**1** - Welcome to the park!](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/1-welcome-to-the-park/welcome.md)
@@ -21,3 +19,6 @@
 [**7** - The Linimo]()
 <br>
 [**8** - The Land]()
+
+
+![Ghibli Park Map](map-ghibli.png)
