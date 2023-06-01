@@ -4,3 +4,5 @@
 
 # Bento Box from My Neighbor Totoro
 ![Food Totoro](totoro-food.jpeg)
+
+### [Return to Exhibitions](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/1-exhibitions/exhibitions.md)
