@@ -2,4 +2,4 @@
 ![Train scene](train-film.png)
 ### [Click here](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/1-exhibitions/steam-train-page.md) to see the film setting's inspiration
 
-### Return to Exhibitions()
+### [Return to Exhibitions](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/1-exhibitions/exhibition.md)
