@@ -4,7 +4,6 @@
 
 ## Sit with No Face on the train
 ![No Face Park](park-noface.png)
-<br>
 ### [Click here]() to see the scene from Spirited Away
 
 ## Explore Ghibli food in a recreation of an animated kitchen
