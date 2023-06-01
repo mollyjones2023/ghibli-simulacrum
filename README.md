@@ -4,11 +4,18 @@
 
 ![Ghibli Park Map](map-ghibli.png)
 
-[1) Welcome to the park!]()
-[2) Ghibli’s Grand Warehouse]()
-[3) Hill of Youth]()
-[4) Dondoko Forest]()
-[5) Valley of the Witches...coming soon...]()
-[6) Mononoke Village...coming soon...]()
-[7) The Linimo]()
-[8) The Land]()
+[**1** - Welcome to the park!]()
+<br>
+[**2** - Ghibli’s Grand Warehouse]()
+<br>
+[**3** - Hill of Youth]()
+<br>
+[**4** - Dondoko Forest]()
+<br>
+[**5** - Valley of the Witches...coming soon...]()
+<br>
+[**6** - Mononoke Village...coming soon...]()
+<br>
+[**7** - The Linimo]()
+<br>
+[**8** - The Land]()
