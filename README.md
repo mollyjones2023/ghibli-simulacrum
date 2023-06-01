@@ -1,1 +1,1 @@
-# ghibli-simulacrum
+# Welcome to the Ghibli Park Simulacrum!
