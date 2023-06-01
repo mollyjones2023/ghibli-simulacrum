@@ -1,5 +1,5 @@
 # Welcome to the Warehouse Exhibitions!
 
 ### Interact with physical renditions of Studio Ghibli Scenes:
-![No Face Park](park-noface)
+![No Face Park](park-noface.png)
 
