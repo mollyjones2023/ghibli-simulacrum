@@ -5,7 +5,7 @@
 ![Warehouse Map](warehouse-map.png)
 
 ### Click on the place you wish to visit:
-**[1 - Exhibitions]()**
+**[1 - Exhibitions](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/1-exhibitions/exhibition.md)**
 <br>
 **[2 - Transcontinental Flight Café]()**
 <br>
