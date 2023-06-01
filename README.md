@@ -20,7 +20,7 @@
 <br>
 [**7** - The Linimo](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/7-the-linimo/linimo.md)
 <br>
-[**8** - The Land]()
+[**8** - The Land](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/8-the-land/land.md)
 
 
 ### Thank you for your visit!
