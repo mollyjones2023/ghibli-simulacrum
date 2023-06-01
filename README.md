@@ -12,7 +12,7 @@
 <br>
 [**3** - Hill of Youth](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/3-hill-of-youth/hill.md)
 <br>
-[**4** - Dondoko Forest]()
+[**4** - Dondoko Forest](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/4-dondoko-forest/forest.md)
 <br>
 [**5** - Valley of the Witches...coming soon...]()
 <br>
