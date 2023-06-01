@@ -4,8 +4,7 @@
 
 ![Warehouse Map](warehouse-map.png)
 
-### Legend
-
+### Click on the place you wish to visit:
 **[1 - Exhibitions]()**
 <br>
 **[2 - Transcontinental Flight Café]()**
