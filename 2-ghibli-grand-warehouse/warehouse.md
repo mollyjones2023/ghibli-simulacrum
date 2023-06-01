@@ -1,4 +1,5 @@
-# Welcome to Ghibli's Grand Warehouse! You are currently at the Information Center.
+# Welcome to Ghibli's Grand Warehouse! 
+## You are currently at the Information Center.
 ### Use the legend and map below to further explore the area:
 
 ![Warehouse Map](warehouse-map.png)
