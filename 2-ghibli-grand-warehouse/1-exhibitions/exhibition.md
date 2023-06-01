@@ -8,4 +8,6 @@
 ### [Click here]() to see the scene from Spirited Away
 
 ## Explore Ghibli food in a recreation of an animated kitchen
+![Poppy Food Park](poppy-food-park.png)
+### [Click here]() to see the scene from Up on Poppy Hill
 
