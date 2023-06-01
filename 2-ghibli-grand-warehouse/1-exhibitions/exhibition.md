@@ -10,3 +10,6 @@
 ![Poppy Food Park](poppy-food-park.png)
 ### [Click here]() to see the scene from Up on Poppy Hill
 
+## See how some guests have decided to engage with the characters in these scenes!
+![Sexualizing characters]()
+
