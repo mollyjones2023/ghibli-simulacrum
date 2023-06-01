@@ -10,7 +10,7 @@
 <br>
 [**2** - Ghibli’s Grand Warehouse](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/warehouse.md)
 <br>
-[**3** - Hill of Youth]()
+[**3** - Hill of Youth](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/3-hill-of-youth/hill.md)
 <br>
 [**4** - Dondoko Forest]()
 <br>
