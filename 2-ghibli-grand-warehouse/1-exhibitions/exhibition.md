@@ -8,7 +8,7 @@
 
 ## Explore Ghibli food in a recreation of an animated kitchen
 ![Poppy Food Park](totoro-food-park.png)
-### [Click here]() to see the kitchen from Up on Poppy Hill and food from My Neighbor Totoro
+### [Click here]() to see the scenes from My Neighbor Totoro
 
 ## See how some guests have decided to engage with the characters in these scenes!
 ![Sexualizing characters](sexualizing-characters.png)
