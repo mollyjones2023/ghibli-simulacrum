@@ -14,7 +14,7 @@
 <br>
 [**4** - Dondoko Forest](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/4-dondoko-forest/forest.md)
 <br>
-[**5** - Valley of the Witches...coming soon...]()
+[**5** - Valley of the Witches...coming soon...](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/5-valley-of-the-witches/valley.md)
 <br>
 [**6** - Mononoke Village...coming soon...]()
 <br>
