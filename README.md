@@ -21,3 +21,6 @@
 [**7** - The Linimo]()
 <br>
 [**8** - The Land]()
+
+
+### Thank you for your visit!
