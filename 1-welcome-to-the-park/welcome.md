@@ -6,3 +6,6 @@ You have just entered the Ghibli Park Simulacrum throught the West Entrance. Amu
 
 ### You made it!
 Now that you bought your tickets, you get to explore the world of Studio Ghibli in real life!
+
+
+**Return [home]() to continue your adevnture!
