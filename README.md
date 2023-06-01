@@ -18,7 +18,7 @@
 <br>
 [**6** - Mononoke Village...coming soon...](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/6-mononoke-village/village.md)
 <br>
-[**7** - The Linimo]()
+[**7** - The Linimo](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/7-the-linimo/linimo.md)
 <br>
 [**8** - The Land]()
 
