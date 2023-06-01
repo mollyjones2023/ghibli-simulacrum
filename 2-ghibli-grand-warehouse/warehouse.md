@@ -5,7 +5,7 @@
 ![Warehouse Map](warehouse-map.png)
 
 ### Legend
-<br>
+
 **[1 - Exhibitions]()**
 <br>
 **[2 - Transcontinental Flight Café]()**
