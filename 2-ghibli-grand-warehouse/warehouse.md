@@ -17,7 +17,7 @@
 <br>
 **[6 - Minami-Machi](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/6-minami-machi/street.md)**
 <br>
-**[7 - Open Warehouse]()**
+**[7 - Open Warehouse](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/7-open-warehouse/open.md)**
 <br>
 **[8 - Children's Town]()**
 <br>
