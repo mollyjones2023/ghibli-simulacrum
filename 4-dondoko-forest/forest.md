@@ -5,7 +5,7 @@
 ![Forest Map](dondoko-forest-map.png)
 
 ### Click on the place you wish to visit:
-**[1 - Satsuki and Mai's House]()**
+**[1 - Satsuki and Mei's House]()**
 <br>
 **[2 - Dondoko-Do]()**
 
