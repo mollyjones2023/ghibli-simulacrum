@@ -1,8 +1,13 @@
 # Welcome to the park!
 
-You have just entered the Ghibli Park Simulacrum throught the West Entrance. Amusement awaits within! However, first you must present your ticket.
+You have just entered the Ghibli Park Simulacrum throught the West Entrance. Amusement awaits within! However, first you must buy your ticket.
+![Kiki money](cash-kiki.jpeg)
 
 ### Ticket prices
+![Tickets 1](ticket1.png)
+![Tickets 2](ticket2.png)
+**You must pay to get into each of the areas!**
+![Marnie cash](money-marnie.png)
 
 ### You made it!
 Now that you bought your tickets, you get to explore the world of Studio Ghibli in real life!
