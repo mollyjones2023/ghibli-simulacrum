@@ -5,7 +5,7 @@
 ![Hill Map](youth-hill-map.png)
 
 ### Click on the place you wish to visit:
-**[1 - Elevator Tower]()**
+**[1 - Elevator Tower](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/3-hill-of-youth/1-elevator-tower/tower.md)**
 <br>
 **[2 - The Cat Bureau]()**
 <br>
