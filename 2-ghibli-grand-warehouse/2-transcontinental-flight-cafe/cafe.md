@@ -1,6 +1,6 @@
 # Welcome to the Transcontinental Flight Café!
 ![Feast](spirited-food.jpeg)
-## For a price, help yourself to a wide range of food items:
+## For a price, help yourself to a wide range of food items from all around the world:
 ![Menu](menu.png)
 ![Pigs](pigs-spirited.png)
 
