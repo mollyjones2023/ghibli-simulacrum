@@ -1,1 +1,4 @@
-**[Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme)**
+# Coming soon: Mononoke Village
+![]
+
+### [Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme)
