@@ -9,7 +9,7 @@
 <br>
 **[2 - Transcontinental Flight Café](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/2-transcontinental-flight-cafe/cafe.md)**
 <br>
-**[3 - Central Stairs]()**
+**[3 - Central Stairs](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/3-central-stairs/stairs.md)**
 <br>
 **[4 - Cat Bus Room]()**
 <br>
