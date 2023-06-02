@@ -1,3 +1,3 @@
 # The House Below
 
-### [Return to the Information Center]()
+### [Return to Information Center]()
