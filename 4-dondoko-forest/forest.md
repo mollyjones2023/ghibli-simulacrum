@@ -7,7 +7,7 @@
 ### Click on the place you wish to visit:
 **[1 - Satsuki and Mei's House](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/4-dondoko-forest/1-satsuki-and-mei-house/house.md)**
 <br>
-**[2 - Dondoko-Do]()**
+**[2 - Dondoko-Do](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/4-dondoko-forest/2-dondoko-do/do.md)**
 
 
 
