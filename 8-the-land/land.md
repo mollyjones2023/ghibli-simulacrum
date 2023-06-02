@@ -3,5 +3,6 @@
 There are no big attractions or rides in Ghibli Park.
 Take a stroll, feel the wind, and discover the wonders."
 
-![]
+![Moricoro](moricoro.jpeg)
+
 ### [Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme)
