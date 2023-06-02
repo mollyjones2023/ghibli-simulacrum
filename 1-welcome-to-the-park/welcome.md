@@ -4,10 +4,11 @@ You have just entered the Ghibli Park Simulacrum throught the West Entrance. Amu
 <br>
 ![Kiki money](cash-kiki.jpeg)
 
-### Ticket prices
+## Ticket prices
 ![Tickets 1](tickets1.png)
 ![Tickets 2](tickets2.png)
-**You must pay to get into each of the areas!**
+
+### You must pay to get into each of the areas!
 ![Marnie cash](money-marnie.png)
 
 ### You made it!
