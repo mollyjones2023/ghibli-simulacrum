@@ -23,7 +23,7 @@
 <br>
 **[9 - Garden in the Sky](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/9-garden-in-the-sky/garden.md)**
 <br>
-**[10 - The House Below]()**
+**[10 - The House Below](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/10-the-house-below/house.md)**
 <br>
 **[11 - Director's Room]()**
 <br>
