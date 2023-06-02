@@ -1,7 +1,7 @@
 # Town square in Colmar, France
 ![Colmar](colmar-france.jpeg)
 
-# Town squre in Poland
+# Town square in Poland
 ![Poland](poland-town.jpeg)
 
 ### [Back](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/3-central-stairs/stairs-film.md)
