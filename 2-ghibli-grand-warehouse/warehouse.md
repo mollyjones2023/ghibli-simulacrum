@@ -25,7 +25,7 @@
 <br>
 **[10 - The House Below](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/10-the-house-below/house.md)**
 <br>
-**[11 - Director's Room]()**
+**[11 - Director's Room](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/11-directors-room/room.md)**
 <br>
 **[12 - Gift Shop: "Adventurous Flying Squadron"]()**
 <br>
