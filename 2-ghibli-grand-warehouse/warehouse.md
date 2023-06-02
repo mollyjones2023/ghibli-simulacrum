@@ -27,7 +27,7 @@
 <br>
 **[11 - Director's Room](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/11-directors-room/room.md)**
 <br>
-**[12 - Gift Shop: "Adventurous Flying Squadron"]()**
+**[12 - Gift Shop: "Adventurous Flying Squadron"](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/12-gift-shop/shop.md)**
 <br>
 
 ### [Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme)
