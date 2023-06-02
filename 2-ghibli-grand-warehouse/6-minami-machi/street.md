@@ -3,5 +3,5 @@
 ![Minami-Machi](shops-model.png)
 ![Shops lights](street-lights.png)
 
-### [Click here]() to see its connection to Studio Ghibli films
+### [Click here](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/6-minami-machi/poppy-street.md) to see its connection to Studio Ghibli films
 ### [Return to Information Center]()
