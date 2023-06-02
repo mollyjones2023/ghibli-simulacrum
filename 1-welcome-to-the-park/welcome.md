@@ -11,8 +11,7 @@ You have just entered the Ghibli Park Simulacrum throught the West Entrance. Amu
 ### You must pay to get into each of the areas!
 ![Marnie cash](money-marnie.png)
 
-### You made it!
+### Thank you for your purchase!
 Now that you bought your tickets, you get to explore the world of Studio Ghibli in real life!
 
-
-**[Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme) to continue your adventure!**
+### [Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme) to continue your adventure!
