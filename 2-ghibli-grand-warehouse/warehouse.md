@@ -13,7 +13,7 @@
 <br>
 **[4 - Cat Bus Room](https://github.com/mollyjones2023/ghibli-simulacrum/edit/main/2-ghibli-grand-warehouse/4-cat-bus-room/bus.md)**
 <br>
-**[5 - Cinema Orion]()**
+**[5 - Cinema Orion](https://github.com/mollyjones2023/ghibli-simulacrum/edit/main/2-ghibli-grand-warehouse/5-cinema-orion/cinema.md)**
 <br>
 **[6 - Minami-Machi]()**
 <br>
