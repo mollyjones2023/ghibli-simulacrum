@@ -4,7 +4,7 @@ Throughout your visit, you will have the chance to explore the layers of the par
 
 ### Here is a scene set in a theme park, like the Ghibli Park, that was featured in the Studio Ghibli film Spirited Away:
 ![Spirited Away park](spirited-park.png)
-### [Click here]() to see the inspiration for this scene's setting 
+### [Click here](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/1-welcome-to-the-park/abandoned-park.md) to see the inspiration for this scene's setting 
 
 
 ## Entering the park...
