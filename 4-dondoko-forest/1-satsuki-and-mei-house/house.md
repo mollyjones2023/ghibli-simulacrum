@@ -3,5 +3,5 @@
 <br>
 <br>
 ![House](house.png)
-### [Click here]() to see the inspiration
+### [Click here](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/4-dondoko-forest/1-satsuki-and-mei-house/totoro-house.md) to see the inspiration
 ### [Return to Dondoko Gate](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/4-dondoko-forest/forest.md)
