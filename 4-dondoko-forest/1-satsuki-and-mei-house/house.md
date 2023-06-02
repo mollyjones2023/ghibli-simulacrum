@@ -1,5 +1,5 @@
 # Satsuki and Mei's House
-**Fun fact:** This replica was here before the park was built but integrated into it
+**Fun fact:** This replica was here before the park was built and then integrated into it
 <br>
 <br>
 ![House](house.png)
