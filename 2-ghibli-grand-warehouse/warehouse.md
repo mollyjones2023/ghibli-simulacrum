@@ -21,7 +21,7 @@
 <br>
 **[8 - Children's Town](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/8-childrens-town/town.md)**
 <br>
-**[9 - Garden in the Sky]()**
+**[9 - Garden in the Sky](https://github.com/mollyjones2023/ghibli-simulacrum/blob/main/2-ghibli-grand-warehouse/9-garden-in-the-sky/garden.md)**
 <br>
 **[10 - The House Below]()**
 <br>
