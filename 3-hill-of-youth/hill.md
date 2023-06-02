@@ -4,5 +4,12 @@
 
 ![Hill Map](youth-hill-map.png)
 
+### Click on the place you wish to visit:
+**[1 - Elevator Tower]()**
+<br>
+**[2 - The Cat Bureau]()**
+<br>
+**[3 - World Emporium]()**
+
 
 ### [Return home](https://github.com/mollyjones2023/ghibli-simulacrum/tree/main#readme)
