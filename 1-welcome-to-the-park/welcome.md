@@ -1,8 +1,8 @@
 # Welcome to the park!
 
-Throughout your visit, you will have the chance to explore the layers of the park's simulacrum.
+Throughout your visit, you will have the chance to explore the layers of the park's simulacrum. For example...
 
-## Here is a scene set in a theme park, like the Ghibli Park, that was featured in the Studio Ghibli film Spirited Away:
+### Here is a scene set in a theme park, like the Ghibli Park, that was featured in the Studio Ghibli film Spirited Away:
 ![Spirited Away park](spirited-park.png)
 ### [Click here]() to see the inspiration for this scene's setting 
 
