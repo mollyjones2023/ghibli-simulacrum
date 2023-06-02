@@ -6,6 +6,7 @@
 
 ### Click on the place you wish to visit:
 **[1 - Satsuki and Mai's House]()**
+<br>
 **[2 - Dondoko-Do]()**
 
 
