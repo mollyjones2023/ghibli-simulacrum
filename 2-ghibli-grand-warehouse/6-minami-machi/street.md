@@ -3,5 +3,5 @@
 ![Minami-Machi](shops-model.png)
 ![Shops lights](street-lights.png)
 
-### [Click here]()to see its connection to Studio Ghibli films
+### [Click here]() to see its connection to Studio Ghibli films
 ### [Return to Information Center]()
