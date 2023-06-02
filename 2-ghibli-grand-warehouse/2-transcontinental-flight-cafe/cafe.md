@@ -1,6 +1,8 @@
 # Welcome to the Transcontinental Flight Café!
-![Feast](spirited-food.png)
+![Feast](spirited-food.jpeg)
 ### Help your self to a wide range of food items:
+![Menu](menu.png)
+![Pigs](pigs-spirited.png)
 
 
 
