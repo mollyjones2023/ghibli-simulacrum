@@ -1,7 +1,7 @@
 # Welcome to the Ghibli Park Simulacrum!
 
 ### Please navigate the park using the map and legend below:
-### (Don't click directly on the map, find key below)
+### (Don't click directly on the map - find key below)
 
 ![Ghibli Park Map](map-ghibli.png)
 
